@@ -1,1 +1,7 @@
 rembg
+streamlit
+onnxruntime
+filetype
+aiohttp
+gradio
+asyncer
